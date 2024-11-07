@@ -7,7 +7,6 @@ Este projeto usa lógica fuzzy para estimar o risco de quedas em idosos com base
 - [Visão Geral](#visão-geral)
 - [Funcionamento do Projeto](#funcionamento-do-projeto)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Visualizações](#visualizações)
 
 
 ### Visão Geral
